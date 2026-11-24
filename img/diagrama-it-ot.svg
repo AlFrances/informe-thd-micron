@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="560" viewBox="0 0 1000 560" font-family="DejaVu Sans, Arial, sans-serif">
+  <rect width="1000" height="560" fill="#ffffff"/>
+  <defs><marker id="a" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#6b7280"/></marker></defs>
+  <text x="500" y="36" text-anchor="middle" font-size="22" font-weight="bold" fill="#1f2937">Integración IT-OT en Micron: la fábrica inteligente</text>
+  <rect x="30" y="60" width="940" height="150" rx="12" fill="#e8f0fe" stroke="#3b6fd8" stroke-width="2"/>
+  <text x="50" y="88" font-size="17" font-weight="bold" fill="#1e3a8a">IT · Sistemas de información</text>
+  <g font-size="14" fill="#1f2937">
+    <rect x="50" y="102" width="215" height="90" rx="8" fill="#fff" stroke="#3b6fd8"/>
+    <text x="157" y="132" text-anchor="middle" font-weight="bold">Cloud híbrida</text>
+    <text x="157" y="154" text-anchor="middle">AWS, Snowflake,</text>
+    <text x="157" y="174" text-anchor="middle">Atlassian Cloud</text>
+    <rect x="280" y="102" width="215" height="90" rx="8" fill="#fff" stroke="#3b6fd8"/>
+    <text x="387" y="132" text-anchor="middle" font-weight="bold">Big Data</text>
+    <text x="387" y="154" text-anchor="middle">77 PB almacenados</text>
+    <text x="387" y="174" text-anchor="middle">58 TB nuevos al día</text>
+    <rect x="510" y="102" width="215" height="90" rx="8" fill="#fff" stroke="#3b6fd8"/>
+    <text x="617" y="132" text-anchor="middle" font-weight="bold">Inteligencia artificial</text>
+    <text x="617" y="154" text-anchor="middle">visión artificial,</text>
+    <text x="617" y="174" text-anchor="middle">clasificación de defectos</text>
+    <rect x="740" y="102" width="215" height="90" rx="8" fill="#fff" stroke="#3b6fd8"/>
+    <text x="847" y="132" text-anchor="middle" font-weight="bold">Gemelos digitales</text>
+    <text x="847" y="154" text-anchor="middle">simulación de la fab</text>
+    <text x="847" y="174" text-anchor="middle">y su logística</text>
+  </g>
+  <rect x="240" y="245" width="520" height="70" rx="35" fill="#fef3c7" stroke="#d97706" stroke-width="2"/>
+  <text x="500" y="275" text-anchor="middle" font-size="16" font-weight="bold" fill="#92400e">IIoT: más de 590.000 fuentes de datos</text>
+  <text x="500" y="298" text-anchor="middle" font-size="14" fill="#92400e">cámaras · micrófonos · sensores de temperatura y humedad</text>
+  <g stroke="#6b7280" stroke-width="2.5" fill="none" marker-end="url(#a)">
+    <line x1="460" y1="318" x2="460" y2="347"/>
+    <line x1="460" y1="212" x2="460" y2="241"/>
+    <line x1="540" y1="241" x2="540" y2="212"/>
+    <line x1="540" y1="347" x2="540" y2="318"/>
+  </g>
+  <text x="560" y="232" font-size="12" fill="#6b7280">datos</text>
+  <text x="390" y="232" font-size="12" fill="#6b7280">alertas</text>
+  <text x="560" y="338" font-size="12" fill="#6b7280">datos</text>
+  <text x="380" y="338" font-size="12" fill="#6b7280">órdenes</text>
+  <rect x="30" y="350" width="940" height="150" rx="12" fill="#e7f6ec" stroke="#2f9e5a" stroke-width="2"/>
+  <text x="50" y="378" font-size="17" font-weight="bold" fill="#14532d">OT · Fabricación física de chips</text>
+  <g font-size="14" fill="#1f2937">
+    <rect x="50" y="392" width="215" height="90" rx="8" fill="#fff" stroke="#2f9e5a"/>
+    <text x="157" y="422" text-anchor="middle" font-weight="bold">Fotolitografía</text>
+    <text x="157" y="444" text-anchor="middle">30-40 fotos</text>
+    <text x="157" y="464" text-anchor="middle">por oblea</text>
+    <rect x="280" y="392" width="215" height="90" rx="8" fill="#fff" stroke="#2f9e5a"/>
+    <text x="387" y="422" text-anchor="middle" font-weight="bold">Robots y AMHS</text>
+    <text x="387" y="444" text-anchor="middle">transporte automático</text>
+    <text x="387" y="464" text-anchor="middle">de obleas</text>
+    <rect x="510" y="392" width="215" height="90" rx="8" fill="#fff" stroke="#2f9e5a"/>
+    <text x="617" y="422" text-anchor="middle" font-weight="bold">Equipos de la fab</text>
+    <text x="617" y="444" text-anchor="middle">bombas, actuadores,</text>
+    <text x="617" y="464" text-anchor="middle">transformadores</text>
+    <rect x="740" y="392" width="215" height="90" rx="8" fill="#fff" stroke="#2f9e5a"/>
+    <text x="847" y="422" text-anchor="middle" font-weight="bold">Ensamblaje y test</text>
+    <text x="847" y="444" text-anchor="middle">vídeo analizado</text>
+    <text x="847" y="464" text-anchor="middle">con IA</text>
+  </g>
+  <text x="500" y="535" text-anchor="middle" font-size="13" fill="#6b7280">Elaboración propia a partir de las fuentes del informe</text>
+</svg>

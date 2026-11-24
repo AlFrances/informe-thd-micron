@@ -1,8 +1,8 @@
 # Informe THD: Micron Technology
 
-**Autores:** Frances [APELLIDOS]
+**Autores:** Al Frances Doydoy
 
-**Fecha:** [DÍA] de noviembre de 2026
+**Fecha:** 24 de noviembre de 2026
 
 **Módulo:** 1º DAW - DIGI
 
@@ -11,7 +11,7 @@
 ## 1. Datos de la empresa elegida
 
 | Campo | Información |
-|---|---|
+|---|---| 
 | **Nombre** | Micron Technology, Inc. — [www.micron.com](https://www.micron.com) |
 | **Sector concreto** | Fabricación de semiconductores: diseño y producción de chips de memoria (DRAM, HBM) y almacenamiento (NAND, SSD) |
 | **Sede** | Boise, Idaho (Estados Unidos), con fábricas en países como Singapur y Taiwán [3][8] |
